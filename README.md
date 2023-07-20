@@ -1,3 +1,3 @@
 key: iPromiseThatYou'llNeverFindAnotherLikeMe
 
-/ncs2 rounds: 109
+cs2 rounds: 109
